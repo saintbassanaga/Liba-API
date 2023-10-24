@@ -1,0 +1,4 @@
+Todo 1
+        -- Generate auth-api rest side and expose all needed endpoint
+Todo 2
+        -- Link the service to the web view login and signing up component
